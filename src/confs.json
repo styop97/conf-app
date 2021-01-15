@@ -1,0 +1,17 @@
+[
+  {
+    "startTime": "11:00",
+    "topic": "Welcome to .Net Conf Arm!",
+    "speakers": ["David Babayan"]
+  },
+  {
+    "startTime": "11:30",
+    "topic": "Interview with Microsoft Armenia CEO",
+    "speakers": ["David Babayan", "Diana Ghazaryan"]
+  },
+  {
+    "startTime": "12:00",
+    "topic": "Microsoft Partner Ecosystem",
+    "speakers": ["David Babayan", "Asya Dallakyan"]
+  }
+]

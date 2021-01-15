@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Nanum-Got;
+    src: url(../fonts/Nanum_Gothic/NanumGothic-Regular.ttf);
+}
+
+body {
+    font-family: Nanum-Got, serif;
+}
+
+.theme-color {
+    color: #9b5bf1;
+}
+
+.color-white {
+    color: white;
+}
+.theme-bg-color {
+    background-color: #9b5bf1;
+}
+
+.underline {
+    text-decoration: underline;
+}
